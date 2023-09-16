@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/compass-new/static/css/main.30a7ec39.css",
-    "main.js": "/compass-new/static/js/main.85845395.js",
-    "static/js/787.d67c2659.chunk.js": "/compass-new/static/js/787.d67c2659.chunk.js",
-    "static/media/spinning_compass.gif": "/compass-new/static/media/spinning_compass.ffc1ddf61d289190cf8b.gif",
-    "static/media/faq.png": "/compass-new/static/media/faq.9852ecfa2681dd0ac4f3.png",
-    "static/media/x.png": "/compass-new/static/media/x.fe058b37622a78d5420a.png",
-    "static/media/hamburger.png": "/compass-new/static/media/hamburger.7733064496692e8451ea.png",
-    "index.html": "/compass-new/index.html",
-    "main.30a7ec39.css.map": "/compass-new/static/css/main.30a7ec39.css.map",
-    "main.85845395.js.map": "/compass-new/static/js/main.85845395.js.map",
-    "787.d67c2659.chunk.js.map": "/compass-new/static/js/787.d67c2659.chunk.js.map"
+    "main.css": "/compass-new/apUsh/static/css/main.6fc2862c.css",
+    "main.js": "/compass-new/apUsh/static/js/main.dcbddc1b.js",
+    "static/js/787.d67c2659.chunk.js": "/compass-new/apUsh/static/js/787.d67c2659.chunk.js",
+    "static/media/spinning_compass.gif": "/compass-new/apUsh/static/media/spinning_compass.ffc1ddf61d289190cf8b.gif",
+    "static/media/faq.png": "/compass-new/apUsh/static/media/faq.9852ecfa2681dd0ac4f3.png",
+    "static/media/x.png": "/compass-new/apUsh/static/media/x.fe058b37622a78d5420a.png",
+    "static/media/hamburger.png": "/compass-new/apUsh/static/media/hamburger.7733064496692e8451ea.png",
+    "index.html": "/compass-new/apUsh/index.html",
+    "main.6fc2862c.css.map": "/compass-new/apUsh/static/css/main.6fc2862c.css.map",
+    "main.dcbddc1b.js.map": "/compass-new/apUsh/static/js/main.dcbddc1b.js.map",
+    "787.d67c2659.chunk.js.map": "/compass-new/apUsh/static/js/787.d67c2659.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30a7ec39.css",
-    "static/js/main.85845395.js"
+    "static/css/main.6fc2862c.css",
+    "static/js/main.dcbddc1b.js"
   ]
 }
