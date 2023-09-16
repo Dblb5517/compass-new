@@ -1,0 +1,113 @@
+.header{
+    width:100%;
+    height:150px;
+    display: flex;
+    width: calc(100% - 320px);
+    justify-content: center;
+}
+
+.compass{
+    background-color: white;
+    display: flex;
+    font-size: 28px;
+    align-items: center;
+    font-weight: bold;
+    color: #212E52;
+    justify-content: center;
+    gap: 20px;
+}
+
+.menuBar{
+    width:50%;
+    height:500%;
+    background-color: blue
+}
+
+.searchBar{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: 20px;
+    margin-right: 20px;
+    flex-direction: column;
+    z-index: 100000000;
+    position: fixed;
+    right: 0;
+    border-radius: 25px;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    background-image: url('../../assets/images/spinning_compass.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.searchBox{
+    height: 47px;
+    width:314px;
+    display: flex;
+    border-radius: 25px;
+    border: 2px solid #212E52;
+    align-items: center;
+}
+.searchIconBack{
+    background-color:#212E52;
+    width:58px;
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.searchIcon{
+    background-image: url('../../assets/images/search-icon.png');
+    width: 25px;
+    height: 25px;
+    background-size:cover;
+}
+.search{
+    background: transparent;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    width: 85%;
+}
+.resultBoxCover{
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 30px;
+    overflow: hidden;
+    transition: all 0.5s ease-in-out;
+    .resultBox{
+        width: 100%;
+        max-height: 200px;
+        overflow-y: auto;
+        border: 1px solid gray;
+        div{
+            min-height: 40px;
+            display: flex;
+            border: 1px solid gray;
+            color: #212e52;
+            font-weight: bold;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            background: white;
+        }
+    }
+}
+
+@media screen and (max-width: 575.98px) {
+    .header{
+        width: 100%;
+    }
+    
+    .compass{
+        transform: scale(0.6);
+        gap: unset;
+    }
+}
+// pti ol i padding@ poxvi

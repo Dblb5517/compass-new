@@ -1,0 +1,43 @@
+.accordion-menu {
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    margin-top: 10px;
+  }
+  
+  .accordion-header {
+    background-color: #f0f0f0;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .icon {
+    font-size: 20px;
+  }
+  
+  .icon.active {
+    transform: rotate(-45deg);
+  }
+  
+  .sub-menu {
+    height: 0;
+    overflow: hidden;
+    transition: height 0.3s ease-out;
+    li{
+      a{
+        text-decoration: none;
+        color: whitesmoke;
+      }
+    }
+  }
+  
+  .sub-menu.open {
+    height: auto;
+    padding: 10px;
+  }
+  

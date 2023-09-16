@@ -1,0 +1,30 @@
+.home{
+    text-align: left;
+    color:#212E52;
+    ;
+    p{
+        padding: 0 20px;
+    }
+    ul{
+        list-style-type: none;
+    }
+    h1,h2,h3,h4,h5,h6{
+        text-align: center;
+    }
+}
+.faqLogo{
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    background-image: url("../../assets/images/faq.png");
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    opacity: 0.25;
+    transition: all 0.25s ease-in-out;
+    transition-delay: 0.25s;
+    cursor: pointer;
+    &:hover{
+        opacity: 1;
+    }
+}
