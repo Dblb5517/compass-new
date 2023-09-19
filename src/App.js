@@ -30,7 +30,7 @@ function App() {
       <div className='content'>
         <Menu />
         <Routes>
-          <Route path="/compass" index element={<Home />} />
+          <Route path="/compass-new" index element={<Home />} />
           <Route path="/:url" element={<Home />} />
         </Routes>
       </div>
