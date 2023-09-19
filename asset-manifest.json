@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/apUsh/static/css/main.2d728be6.css",
-    "main.js": "/apUsh/static/js/main.670d2182.js",
+    "main.js": "/apUsh/static/js/main.b630389f.js",
     "static/js/787.d67c2659.chunk.js": "/apUsh/static/js/787.d67c2659.chunk.js",
     "static/media/spinning_compass.gif": "/apUsh/static/media/spinning_compass.ffc1ddf61d289190cf8b.gif",
     "static/media/faq.png": "/apUsh/static/media/faq.9852ecfa2681dd0ac4f3.png",
@@ -9,11 +9,11 @@
     "static/media/hamburger.png": "/apUsh/static/media/hamburger.7733064496692e8451ea.png",
     "index.html": "/apUsh/index.html",
     "main.2d728be6.css.map": "/apUsh/static/css/main.2d728be6.css.map",
-    "main.670d2182.js.map": "/apUsh/static/js/main.670d2182.js.map",
+    "main.b630389f.js.map": "/apUsh/static/js/main.b630389f.js.map",
     "787.d67c2659.chunk.js.map": "/apUsh/static/js/787.d67c2659.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d728be6.css",
-    "static/js/main.670d2182.js"
+    "static/js/main.b630389f.js"
   ]
 }
