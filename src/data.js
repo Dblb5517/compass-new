@@ -476,6 +476,167 @@ const data = [
             }
         ]
     },
+    {
+        url: 'apFrench',
+        title: 'AP French Language   ',
+        subtitle1:'AP French Language and Culture ',
+        paragraph1:'AP French Language and Culture is equivalent to an intermediate level college course in French. Students cultivate their understanding of French language and culture by applying interpersonal, interpretive, and presentational modes of communication in real-life situations as they explore concepts related to family and community, personal and public identity, beauty and aesthetics, science and technology, contemporary life, and global challenges.​​​​​​        ',
+        subtitle2:'Tips for studying',
+        list1: [
+            'Find the culture in your every day.',
+            'Find a language exchange.',
+            'Keep track of unknown words.',
+            'Find a language buddy.'
+        ],
+        subtitle3:{
+            title: "To visit the AP French Language and Culture exam page on the College Board's website, click on this link: ",
+            link: "https://apcentral.collegeboard.org/courses/ap-french-language-and-culture",
+            linkTitle: " AP French Language and Culture exam examples"
+        },
+        list2:[
+            {
+                title: "Overview of the AP French Language and Culture  exam:",
+                desc: "The AP French Language and Culture exam is a comprehensive test that evaluates students' proficiency in the French language and their understanding of French-speaking cultures. It consists of multiple-choice listening and reading sections, as well as free-response speaking and writing sections. The test typically takes about 3 hours and 5 minutes to complete. Scoring well on this exam can lead to college credit or advanced placement in French courses, making it an important milestone for students studying the language.                ",
+                link: "https://apcentral.collegeboard.org/courses/ap-french-language-and-culture/exam",
+                linkTitle: "Information about AP French Language and Culture on Collegeboard website"
+            }
+        ]
+    },
+    {
+        url: 'apMicro',
+        title: 'AP Microeconomics',
+        subtitle1:'AP Microeconomics',
+        paragraph1:'Study the principles of economics that apply to the behavior of individuals within an economic system. You’ll use graphs, charts, and data to analyze, describe, and explain economic concepts.        ',
+        subtitle2:'Tips for studying',
+        list1: [
+            'Be aware of the common mistakes. ',
+            'Buy an AP® Microeconomics review book.',
+            'Watch Microeconomics review videos.',
+            'Make your own Microeconomics flashcards.'
+        ],
+        subtitle3:{
+            title: "To visit the AP Microeconomics exam page on the College Board's website, click on this link: ",
+            link: "https://apcentral.collegeboard.org/courses/ap-microeconomics",
+            linkTitle: " AP Microeconomics exam examples"
+        },
+        list2:[
+            {
+                title: "Overview of the AP Microeconomics  exam:",
+                desc: "The AP Microeconomics exam typically lasts for a total of 2 hours and 10 minutes. It consists of two main sections: multiple-choice questions and free-response questions. The multiple-choice section lasts for 1 hour and accounts for 66% of the total exam score. The free-response section follows and takes about 1 hour and 10 minutes, making up the remaining 34% of the score. This comprehensive exam assesses students' understanding of microeconomic concepts, their ability to analyze economic scenarios, and their skills in applying economic principles.                ",
+                link: "https://apcentral.collegeboard.org/courses/ap-microeconomics/exam",
+                linkTitle: "Information about AP Microeconomics on Collegeboard website"
+            }
+        ]
+    },
+    {
+        url: 'apPhysics2',
+        title: 'AP Physics 2',
+        subtitle1:'AP Physics 2',
+        paragraph1:'Expand your understanding of physics as you explore topics such as fluids; thermodynamics; electric force, field, and potential; electric circuits; magnetism and electromagnetic induction; geometric and physical optics; and quantum, atomic, and nuclear physics. You’ll do hands-on and inquiry-based in-class activities and laboratory work to investigate phenomena.        ',
+        subtitle2:'Tips for studying',
+        list1: [
+            'Use paragraph length responses.',
+            'Cite physical principles and equations.',
+            'Skim all the problems prior to solving. ',
+            'Draw a free-body diagram for mechanics and motion problems.'
+        ],
+        subtitle3:{
+            title: "To visit the AP Physics 2 exam page on the College Board's website, click on this link: ",
+            link: "https://apcentral.collegeboard.org/courses/ap-physics-2",
+            linkTitle: " AP Physics 2 exam examples"
+        },
+        list2:[
+            {
+                title: "Overview of the AP Physics 2  exam:",
+                desc: "The AP Physics 2 exam is typically about 3 hours long. It consists of two main sections: a multiple-choice section and a free-response section. The multiple-choice section lasts for approximately 1 hour and 30 minutes and includes a series of physics-related questions that assess students' conceptual understanding and problem-solving skills. The free-response section, lasting about 1 hour and 30 minutes, requires students to provide detailed written responses to a set of open-ended questions, often involving experimental design, data analysis, and extended problem-solving.",
+                link: "https://apcentral.collegeboard.org/courses/ap-physics-2/exam",
+                linkTitle: "Information about AP Physics 2 on Collegeboard website"
+            }
+        ]
+    },
+    {
+        url: 'apEnvir',
+        title: 'AP Enviromental Science',
+        subtitle1:'AP Enviromental Science',
+        paragraph1:'Explore and investigate the interrelationships of the natural world and analyze environmental problems, both natural and human-made. You’ll take part in laboratory investigations and field work.',
+        subtitle2:'Tips for studying',
+        list1: [
+            'Focus on specific themes.',
+            'Familiarize yourself with the types of multiple-choice questions. ',
+            'Practice regularly.',
+            'Stick to the course outline.'
+        ],
+        subtitle3:{
+            title: "To visit the AP Enviromental Science exam page on the College Board's website, click on this link: ",
+            link: "https://apcentral.collegeboard.org/courses/ap-environmental-science",
+            linkTitle: " AP Enviromental Science exam examples"
+        },
+        list2:[
+            {
+                title: "Overview of the AP Enviromental Science  exam:",
+                desc: "The AP Environmental Science Exam will test your understanding of the environmental concepts covered in the course units, as well as your ability to design research studies to solve environmental problems. Calculators are permitted for use in all sections of the exam.                ",
+                link: "https://apstudents.collegeboard.org/courses/ap-environmental-science/assessment",
+                linkTitle: "Information about AP Enviromental Science  on Collegeboard website"
+            }
+        ]
+    },
+    {
+        url: 'apEuropean',
+        title: 'AP European history',
+        subtitle1:'AP European history',
+        paragraph1:'AP European History is an introductory college-level European history course. Students cultivate their understanding of European history through analyzing historical sources and learning to make connections and craft historical arguments as they explore concepts like interaction of Europe and the world; economic and commercial developments; cultural and intellectual developments; states and other institutions of power; social organization and development; national and European identity; and technological and scientific innovation.        ',
+        subtitle2:'Tips for studying',
+        list1: [
+            'Keep your class notes, readings, and study materials well-organized. ',
+            'Plan your study time in advance and stick to a schedule.',
+            'Familiarize yourself with the format and types of questions asked in past AP European History exams. ',
+            ' Create visual aids like mind maps, timelines, or diagrams to help you understand and remember complex concepts, events, and relationships.'
+        ],
+        subtitle3:{
+            title: "To visit the AP European history exam page on the College Board's website, click on this link: ",
+            link: "https://apcentral.collegeboard.org/courses/ap-european-history/exam",
+            linkTitle: " AP European history exam examples"
+        },
+        list2:[
+            {
+                title: "Overview of the AP European history  exam:",
+                desc: "The AP European History exam is three hours and 15 minutes long and consists of two sections. Section 1 has two parts: a 55-minute, 55-question multiple-choice section, and a three-question, 40-minute short-answer section. Section 2 also has two parts: a 60-minute document-based question, or DBQ, and a 40-minute essay.",
+                link: "https://apcentral.collegeboard.org/courses/ap-european-history",
+                linkTitle: "Information about AP European history on Collegeboard website"
+            }
+        ]
+    },
+    {
+        url: 'satEng',
+        title: 'SAT English Reading and Writing',
+        subtitle1:'SAT Reading and Writing',
+        paragraph1:'The Reading and Writing section presents short reading passages (or passage pairs) followed by a single multiple-choice question. Questions on the Reading and Writing section represent one of four content domains—Craft and Structure, Information and Ideas, Standard English Conventions, and Expression of Ideas.        ',
+        subtitle2:'Tips for studying',
+        list1: [
+            'As you read short sentences, actively engage with the text. Pay close attention to every word, and think about the authors purpose and tone. Short sentences often contain important information, so dont skim over them.            ',
+            'Look at the surrounding sentences and paragraphs to gain a better understanding of the context. Short sentences are often part of a larger idea or argument, and understanding this context can help you answer questions about their meaning.            ',
+            'Focus on identifying key information, such as main ideas, supporting details, and transitions. Short sentences may contain critical information that directly relates to the passages main point or the authors argument.            ',
+            'Be prepared to encounter unfamiliar words or phrases in short sentences. If you come across a word you dont know, use the context to infer its meaning. Also, make sure to study and expand your vocabulary before the test.            ',
+            'Short sentences can vary in structure. Familiarize yourself with common sentence structures like simple, compound, and complex sentences.',
+            'Think about why the author chose to use short sentences in a particular way. Are they used for emphasis, clarity, or to make a point? ',
+            'Use official SAT practice tests and materials to get a sense of the types of short sentences youll encounter.Use official SAT practice tests and materials to get a sense of the types of short sentences youll encounter.',
+            ' Since the SAT is a timed test, you must manage your time effectively. Short sentences can be deceptive in terms of time consumption. Dont spend too much time on a single sentence; if youre stuck, move on and come back later if necessary.',
+            'Regularly practice with SAT reading and writing questions, and review your mistakes carefully. '
+        ],
+        subtitle3:{
+            title: "To visit the SAT Reading and Writing exam page on the College Board's website, click on this link: ",
+            link: "https://satsuite.collegeboard.org/sat/whats-on-the-test/writing-language",
+            linkTitle: " SAT Reading and Writing exam examples"
+        },
+        list2:[
+            {
+                title: "Overview of the SAT Reading and Writing  exam:",
+                desc: "Reading: 65-minute section with 52 questions (75 seconds per question).Writing and Language: 35-minute section with 44 questions (about 48 seconds per question)",
+                link: "https://blog.collegeboard.org/how-long-does-the-sat-take",
+                linkTitle: "Information about SAT Reading and Writing on Collegeboard website"
+            }
+        ]
+    },
 ]
 
 export default data;

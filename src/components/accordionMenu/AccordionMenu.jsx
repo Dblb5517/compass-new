@@ -73,14 +73,6 @@ const AccordionMenu = ({closeMenu}) => {
         { title: 'SAT Math', url: '/satMath' },
       ],
     },
-
-    { title: 'ЕГЭ', url: '#' ,
-    subMenu: [
-    { title: 'Английский', url: '#' },
-    { title: 'Русский', url: '#' },
-    { title: 'Математика', url: '#' }
-    ]
-  },
   ]
 
   return (
