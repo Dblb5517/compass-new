@@ -636,6 +636,36 @@ const data = [
                 linkTitle: "Information about SAT Reading and Writing on Collegeboard website"
             }
         ]
+    }, {
+        url: 'satMath',
+        title: 'SAT Math',
+        subtitle1:'MATH',
+        paragraph1:'The SAT Math Test measures your ability to apply mathematical concepts and skills to the types of problems you might see in college and in your career. ',
+        subtitle2:'Tips for studying',
+        list1: [
+            'Familiarize yourself with the format of the SAT Math section. It consists of two parts: the No Calculator section and the Calculator section. ',
+            'Review the topics covered in the SAT Math section. The College Board provides a list of content areas that may appear on the test. ',
+            'The College Board offers official SAT study materials, including the SAT Math Guide. ',
+            'Consistent practice is key to improving your math skills. Solve SAT Math practice questions regularly to build your problem-solving skills. ',
+            'When you make a mistake on a practice question, dont just move on. ',
+            'Familiarize yourself with various problem-solving techniques and strategies.',
+            'Practice under timed conditions to get a feel for the pace you need to maintain during the actual test. You have 25 minutes for the No Calculator section and 55 minutes for the Calculator section.            ',
+            'For the Calculator section, know how to efficiently use your calculator. ',
+            'Memorize important formulas and equations youll need for the SAT Math section. '
+        ],
+        subtitle3:{
+            title: "To visit the SAT Math exam page on the College Board's website, click on this link: ",
+            link: "https://satsuite.collegeboard.org/sat/whats-on-the-test/math",
+            linkTitle: "SAT Math exam page "
+        },
+        list2:[
+            {
+                title: "Overview of the SAT Math exam:",
+                desc: "You'll see one 55-minute section with 38 questions (calculators ok) and one 25-minute section with 20 questions (calculators not permitted).",
+                link: "https://www.khanacademy.org/test-prep/sat/x0a8c2e5f:untitled-652/x0a8c2e5f:inside-the-sat-math-test/a/the-sat-math-test",
+                linkTitle: "Information about SAT Math on Khan Academy"
+            }
+        ]
     },
 ]
 
